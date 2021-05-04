@@ -1,0 +1,70 @@
+body {
+    background-image: url(/images/leone-venter-VieM9BdZKFo-unsplash.jpg);
+    background-size: cover;
+}
+
+nav {
+    position: sticky;
+    border: 1px solid black;
+}
+
+nav h1 {
+    margin-right: 38% !important;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px !important;
+    padding-top: 1% !important;
+}
+
+/* Bio for the homepage */
+.bio {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.project {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.dropdown-item[value="Selected"]{
+    background: gray;
+}
+
+#coming-soon img {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 35%;
+    border-radius: 10%;
+}
+
+#coming-soon h1{
+    text-align: center;
+    padding-top: 2%;
+}
+
+#coming-soon h2{
+    text-align: center;
+    padding-top: 5%;
+}
+
+#hero p{
+    font-size:larger;
+    padding: 10%;
+}
+
+#hero img {
+    box-sizing: border-box;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 50%;
+    border-width: 30%;
+    margin-top: 12%;
+}
+
+#time {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: black;
+    margin-left: 33%;
+    margin-right: 33%;
+}
